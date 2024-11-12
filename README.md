@@ -82,13 +82,3 @@ cases)
 We have also implemented a select input that lists the available models from
 threejs glTF model examples. When user selects a model, it is downloaded and
 replaces the current model on the screen. By default, a cube is loaded.
-
-### Images
-
-<img src="https://github.com/Project-Own/video_conference_front/blob/main/public/Gesture_Dark_1.png" width="400px" height="100%"/>
-
-<img src="https://github.com/Project-Own/video_conference_front/blob/main/public/Gesture_Dark_2.png" width="400px" height="100%"/>
-
-<img src="https://github.com/Project-Own/video_conference_front/blob/main/public/AR_edit.png" width="400px" height="100%"/>
-
-<img src="https://github.com/Project-Own/video_conference_front/blob/main/public/AR_paper_edit.png" width="400px" height="100%"/>
